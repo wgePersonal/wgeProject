@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WgeMVVM", "WgeMVVM\WgeMVVM.csproj", "{FD6C92C5-A3EB-45FE-8E72-0BB52C50EE98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WgeMVVMSample1", "WgeMVVMSample1\WgeMVVMSample1.csproj", "{A3341198-8F92-4584-98C1-E3FD8117614D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{FD6C92C5-A3EB-45FE-8E72-0BB52C50EE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD6C92C5-A3EB-45FE-8E72-0BB52C50EE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD6C92C5-A3EB-45FE-8E72-0BB52C50EE98}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3341198-8F92-4584-98C1-E3FD8117614D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3341198-8F92-4584-98C1-E3FD8117614D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3341198-8F92-4584-98C1-E3FD8117614D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3341198-8F92-4584-98C1-E3FD8117614D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
